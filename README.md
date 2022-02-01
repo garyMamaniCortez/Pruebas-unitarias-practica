@@ -1,5 +1,5 @@
 # Pruebas-unitarias-practica
-Practica de pruebas unitarias con junit en java
+Practica de pruebas unitarias con JUnit en java
 ## Participantes:
 * Niver Joaquin Huaygua Canaviri
 * Cristal kiara Flores Ticona
